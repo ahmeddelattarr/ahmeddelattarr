@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elattar</h1>
 <h3 align="center">A passionate learner</h3>
-# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CXM3K7fVJKdCRpFWNV_mQw.gif">
+💫 About Me:
 🌱 I’m currently learning Backend engineering , Django<br><br>💬 Ask me about Python, Django<br><br>📫 How to reach me ahmeddelattarr@outlook.com<br><br>📄 Know about my experiences [Ex intern at alx](Ex intern at alx)
 
 

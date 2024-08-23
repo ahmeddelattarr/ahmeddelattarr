@@ -1,12 +1,8 @@
 <h2 align="center">Hi 👋! My name is Ahmed and I'm an aspiring SWE</h2>
 
-<div align="center">
-  <pre style="font-family: 'Press Start 2P', cursive;">
-    Aspiring software engineer.
-  </pre>
-</div>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47340gheo95am5eenxz75kcx6oj99qenziirirfvap&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3>About me</h3>
 

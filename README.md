@@ -26,7 +26,7 @@ skills = {
     "Backend": ["Django", "Django REST Framework", "Python", "asyncio"],
     "Databases": ["PostgreSQL", "SQLite", "MySQL", "Database Optimization"],
     "DevOps & Tools": ["Git", "CI/CD", "Docker", "Postman"],
-    "API": ["RESTful Design", "JWT Authentication", "SSL"],
+    "API": ["RESTful Design", "JWT Authentication", "SSL","Oauth"],
     "Testing": ["Unit Testing", "API Testing"],
 }
 ```

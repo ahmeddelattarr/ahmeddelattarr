@@ -30,17 +30,3 @@ skills = {
     "Testing": ["Unit Testing", "API Testing"],
 }
 ```
-
-
-
-### what i do
-
-**ByteHive | Co-founder **
-  - Built APIs with Django and DRF, ensuring robust and scalable backend solutions.
-  - Managed deployment pipelines and CI/CD workflows, streamlining development and release processes.
-  - Led a team of developers, mentoring and guiding them through technical challenges. 
-
-
-
-
-

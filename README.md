@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### 💫 About Me
-- 🚀 Co-founder and Backend Engineer at ByteHive
 
 - 👨‍💻 Passionate about building scalable web applications
 - 🌱 Currently leading backend initiatives at GDG Campus BNU

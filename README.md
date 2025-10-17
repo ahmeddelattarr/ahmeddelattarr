@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Ahmed Elattar</h1>
-<h3 align="center">Backend Developer | Co-founder of ByteHive</h3>
+<h3 align="center">Backend Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 

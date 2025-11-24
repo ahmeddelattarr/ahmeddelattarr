@@ -31,11 +31,12 @@ Portfolio: **ahmedelattar.tech**
 
 ### Technical Skills
 
-```python
-skills = {
-    "Backend": [ "Python", "Django", "Django REST Framework", "FastAPI", "asyncio" ],
-    "Databases": [ "PostgreSQL", "MySQL", "SQLite", "Redis", "NeonDB" ],
-    "API & Security": [ "RESTful Design", "JWT", "OAuth2", "SSL/TLS", "OTP Flows", "RBAC" ],
-    "DevOps & Tools": [ "Docker", "GitHub Actions CI/CD", "Git", "Vercel", "Railway", "Postman", "Cloudinary" ],
-    "Testing": [ "Unit Testing", "API Testing" ]
-}
+### Technical Skills
+
+**Backend**: Python, Django, Django REST Framework, FastAPI, asyncio  
+**Databases**: PostgreSQL, MySQL, SQLite, Redis, NeonDB  
+**API & Security**: RESTful API Design, JWT Authentication, OAuth2, SSL/TLS, OTP Flows, Role-Based Access Control (RBAC)  
+**DevOps & Tools**: Docker, GitHub Actions CI/CD, Git, Vercel, Railway, Postman, Cloudinary  
+**Testing**: Unit Testing, API Testing
+
+--

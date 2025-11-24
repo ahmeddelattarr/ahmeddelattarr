@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Elattar</h1>
-<h3 align="center">Backend Developer | Python • Django • FastAPI</h3>
+<h3 align="center">Backend Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
@@ -7,7 +7,7 @@
 Backend Engineer with solid experience in building scalable systems, secure APIs, and reliable backend architectures.  
 I focus on clean design, performance, and delivering maintainable solutions.
 
-- Software Engineer at ByteHive  
+- Software Engineer at ByteHive (2025)
 - Backend Developer at Drop Me (2025)  
 - Leading backend initiatives at GDG Campus BNU  
 - Experienced in Django backends, FastAPI services, CI/CD pipelines, OTP flows, caching layers, and analytics backends  

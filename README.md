@@ -13,7 +13,7 @@ I focus on clean design, performance, and delivering maintainable solutions.
 - Experienced in Django backends, FastAPI services, CI/CD pipelines, OTP flows, caching layers, and analytics backends  
 
 Contact: **ahmeddelattarr@outlook.com**  
-Portfolio: **ahmedelattar.tech**
+Portfolio: **ahmedelattar.dev**
 
 ---
 
